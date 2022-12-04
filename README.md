@@ -40,7 +40,7 @@ console.log(daysTilBday('31/08/1995'));
 ```cpp
 using namespace std;
 
-// Check if n is power of 3
+// Check if n is power of 3, print all numbers in range that are power of 3
 bool isPowerOfThreeRec(int n){
     if(n <= 0){
         return false;
